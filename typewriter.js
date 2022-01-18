@@ -1,4 +1,4 @@
-const sentence = "hello there from lighthouse labs";
+const sentence = "hello from the otter otter sliiiiidde";
 
 let print = process.stdout;
 
